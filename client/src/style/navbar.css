@@ -1,0 +1,16 @@
+.navbar {
+  background-color: var(--primary-color);
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  font-family: "Poppins", sans-serif;
+}
+
+.bar {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
